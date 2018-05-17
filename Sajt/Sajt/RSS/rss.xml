@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title>Home</title>
+<link>index.html</link>
+<description>Ovde mozete videti pogledati opis vezan za platformu Android i koje su trenutne verzije lansirane na trzistu. </description>
+<item>
+<title>Lolipop</title>
+<link>lolipop.html</link>
+<description>Lolipop je trenutno najnovija verzija androida koja je lansirana na trzistu. I ima oznaku 5.0 </description>
+</item>
+<item>
+<title>Froyo</title>
+<link>froyo.html</link>
+<description> Froyo je jedna medju prvim zastupljenim android verzijama koje su pocele da se ugradjuju u smartfhone. I ima oznaku 2.2</description>
+</item>
+<item>
+<title>Gingerbread</title>
+<link>gingerbread.html</link>
+<description>Gingerbread je verzija koja je vrlo zastupljena na starijim modelima smartphone-a, jer nije toliko zahtevna, sto se tice specifikacija. I ima oznaku 2.3 </description>
+</item>
+<item>
+<title>Honeycomb</title>
+<link>honeycomb.html</link>
+<description> Honecomb je verzija koja je malo uredjenija sto se tice interfejsa u odnosu na prethodnu verziju. I ima oznaku 3.0 </description>
+</item>
+<item>
+<title>Ice Cream</title>
+<link>icecream.html</link>
+<description>Ice Cream je verzija koja je uredjenija,pojednostavljena, lepse uradjena od prethodne verzije . I ima oznaku 4.0 </description>
+</item>
+<item>
+<title>Jelly Bean</title>
+<link>jellybean.html</link>
+<description> Jelly Bean je verzija koja je trenutno najzastupljenija na srednjoj klasi smartphone-a, lepse uradjen korisnicki interfejs. I ima verziju 4.3 </description>
+</item>
+<item>
+<title>KitKat</title>
+<link>kitkat.html</link>
+<description>KitKat je verzija koja je za nijansu slabija po korisnickom interfejsu u ondnosu na trenutno najnoviju lansiranu verziju. I ima oznaku 4.4  </description>
+</item>
+</channel>
+</rss>
